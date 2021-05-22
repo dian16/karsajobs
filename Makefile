@@ -1,2 +1,2 @@
 run:
-  go run ./cmd/weba
+  go run ./cmd/web
